@@ -87,7 +87,7 @@
 	display: block;
 }
 #GameLogo{
-	background-image:url("https://github.com/BRGodara/TicTacToe/blob/57c3e19d793f9ba68c2b363ece3c94ff88a36591/Game_Logo.png");
+	background-image: url("Game_Logo.png");
 	background-size: 700px 200px;
 	height: 200px;
 	width: 700px;
