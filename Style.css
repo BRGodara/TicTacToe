@@ -49,7 +49,7 @@
 	color: #FFB300;
 }
 #Reset{
-	background-image: url("Images/Reset.png");
+	background-image: url("https://github.com/BRGodara/TicTacToe/blob/8d0d3a65c9fa22ea39083f8a5bab932233e32a95/Reset.png");
 	background-size: 200px 200px;
 	height: 200px;
 	width: 200px;
@@ -87,7 +87,7 @@
 	display: block;
 }
 #GameLogo{
-	background-image: url("Images/Game_Logo.png");
+	background-image:url("https://github.com/BRGodara/TicTacToe/blob/8d0d3a65c9fa22ea39083f8a5bab932233e32a95/Game_Logo.png");
 	background-size: 700px 200px;
 	height: 200px;
 	width: 700px;
@@ -96,7 +96,7 @@
 	left: 125px;
 }
 #CreatorLogo{
-	background-image: url("Images/Creator_Logo.png");
+	background-image: url("https://github.com/BRGodara/TicTacToe/blob/8d0d3a65c9fa22ea39083f8a5bab932233e32a95/Creator_Logo.png");
 	background-size: 200px 200px;
 	height: 200px;
 	width: 200px;
