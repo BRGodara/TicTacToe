@@ -65,7 +65,7 @@
 	right: 205px;
 }
 #Back{
-	background-image: url("Images/Back.png");
+	background-image: url("https://github.com/BRGodara/TicTacToe/blob/78cb225f979a556ccca8ef676454c4490f90a0f0/Back.png");
 	background-size: 200px 200px;
 	height: 200px;
 	width: 200px;
@@ -122,7 +122,7 @@
 	box-sizing: border-box;
 }
 #Play{
-	background-image: url("Images/Play.png");
+	background-image: url("https://github.com/BRGodara/TicTacToe/blob/78cb225f979a556ccca8ef676454c4490f90a0f0/Play.png");
 	background-size: 300px 300px;
 	height: 300px;
 	width: 300px;
